@@ -52,3 +52,13 @@
   margin-right: 10px; /* Adjust the margin value as needed */
   color: white;
 }
+
+.home{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+p:not(:last-child) {
+  margin-bottom: 10px;
+}

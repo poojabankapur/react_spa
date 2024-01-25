@@ -4,6 +4,7 @@ import './i18n/i18n';
 import { Route, Routes, BrowserRouter, Link } from 'react-router-dom';
 import News from './components/News/News';
 import User from './components/User/User';
+import Home from './components/Home';
 import UserDetails from './components/User/UserDetails';
 
 const App: React.FC = () => {
@@ -25,8 +26,8 @@ const App: React.FC = () => {
           </div>
         </div>
       </article>
-
       <Routes>
+        <Route path="/" element={<Home />}></Route>
         <Route path="/users" element={<User />}></Route>
         <Route path="/users/:id" element={<UserDetails />} />
         <Route path="/news" element={<News />}></Route>
