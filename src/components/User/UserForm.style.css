@@ -1,0 +1,31 @@
+.form-container {
+    text-align: center;
+}
+
+input[type="text"]{
+    height: 20px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.inputwrap label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+}
+
+input[type="button"],
+input[type="submit"] {
+    height: 25px;
+    margin-left: 5px;
+}
+
+.userFields{
+    margin-right: 62px;
+    margin-bottom: 5px;
+}
+
+.newsFields{
+    margin-right: 33px;
+    margin-bottom: 5px;
+}

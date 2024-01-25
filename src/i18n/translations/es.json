@@ -1,0 +1,27 @@
+{
+    "title":"React aplicación",
+    "userList":"Lista de usuarios",
+    "name": "Nombre",
+    "place": "Lugar",
+    "action": "Acción",
+    "view": "Vista",
+    "edit": "Editar",
+    "delete": "Borrar",
+    "addUser": "Agregar Usuario",
+    "userDetails": "Detalles de usuario",
+    "firstName": "El primer nombre",
+    "lastName": "Apellido",
+    "editUser":"Editar formulario de usuario",
+    "back": "Atrás",
+    "updateUser": "Actualizar usuario",
+    "chooseLanguage": "Elige lengua",
+    "addNews": "Agregar noticias",
+    "newsList": "Lista de noticias",
+    "description": "Descripción",
+    "newsTitle": "Título",
+    "addUserForm": "Agregar formulario de usuario",
+    "addNewsForm": "Agregar formulario de noticias",
+    "newsDetails": "Detalles de noticias",
+    "allFieldsAreMandatory": "Todos los campos son obligatorios"
+    
+}
